@@ -1,0 +1,15 @@
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\Entities.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
