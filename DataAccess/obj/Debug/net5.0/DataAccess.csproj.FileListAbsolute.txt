@@ -13,3 +13,5 @@ C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\Data
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\DataAccess\bin\Debug\net5.0\Core.pdb
