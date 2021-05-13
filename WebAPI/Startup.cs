@@ -32,9 +32,12 @@ namespace WebAPI
         {
             // Autofac, Ninject, CastleWindsor, StructureMap, LightInject, DryInject --> IoC Container
             // AOP
+            // Postsharp
+
+            // Autofac - Business - IoC
             services.AddControllers();
-            services.AddSingleton<IProductService, ProductManager>();
-            services.AddSingleton<IProductDal, EfProductDal>();
+            //services.AddSingleton<IProductService, ProductManager>();
+            //services.AddSingleton<IProductDal, EfProductDal>();
 
             services.AddSwaggerGen(c =>
             {

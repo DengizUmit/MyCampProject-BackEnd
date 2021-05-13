@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8vPVYX488wqj+4aJZW6ZR+AeRgzceScZ0o1A+bsJ4KM+hZ89rNdLwsPR2iZUaAgo/qyB4QjOXHJV2grKB3c/8A==",
+  "dgSpecHash": "uogWTJnP3N+Zj4sIPbN0kSmbU0xT59DsAtLHmUuYDn1orhD2bB1wu83muoz58BaR8zpsIl0C6qgmmLAMy77mMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ÜmitDengiz\\source\\repos\\MyCampProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\ÜmitDengiz\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

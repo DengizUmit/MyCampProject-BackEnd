@@ -81,3 +81,8 @@ C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Business
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Core.pdb
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
