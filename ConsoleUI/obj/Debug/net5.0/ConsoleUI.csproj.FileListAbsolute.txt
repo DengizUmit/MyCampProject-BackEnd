@@ -74,3 +74,6 @@ C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\Autof
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\Castle.Core.dll
 C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ÜmitDengiz\source\repos\MyCampProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
