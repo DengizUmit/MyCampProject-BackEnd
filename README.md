@@ -1,6 +1,6 @@
-# MyCampProject
+# MyCampProject - BackEnd
 
 ## Nitelikli Yazılım Geliştirici Yetiştirme Programı :)
-## NetCore - BackEnd
+## NetCore
 
 ### Engin Demiroğ
